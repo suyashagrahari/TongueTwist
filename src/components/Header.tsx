@@ -12,7 +12,7 @@ const Header = () => {
     <AppBar position="static">
       <Toolbar>
         <Typography variant="h5" mr={"auto"} textTransform={"uppercase"}>
-          Learndo.
+          TongueTwist
         </Typography>
         <Link style={styles} to={"/"}>
           Home
